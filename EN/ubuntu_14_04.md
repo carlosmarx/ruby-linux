@@ -51,7 +51,11 @@ You can create your application with the following command:
 
 		rails new app_name
 
-Navigate to the project folder and run:
+Navigate to the project folder.
+	
+		cd app_name
+
+And run:
 
 		bundle install
 

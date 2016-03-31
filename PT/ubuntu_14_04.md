@@ -51,7 +51,11 @@ Você pode testar o rails criando sua primeira aplicação.
 
 		rails new nome_do_app
 
-Feito isso, navegue até a pasta do seu projeto e rode o comando:
+Feito isso, navegue até a pasta do seu projeto.
+	
+		cd nome_do_app
+
+E rode o comando:
 
 		bundle install
 
