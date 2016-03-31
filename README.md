@@ -1,4 +1,4 @@
-# Ruby and Rails instalation in baby steps
+# Instalação do Ruby e Rails passo a passo
 
 Este tutorial foi feito baseado na versão 14.04 LTS do Ubuntu, mas funciona em outras distros baseadas no debian. 
 
